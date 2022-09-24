@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dhanvepreeti96.github.io/Greetings/static/css/main.073c9b0a.css",
+    "main.js": "/dhanvepreeti96.github.io/Greetings/static/js/main.896aa53c.js",
+    "static/js/787.15dc09ae.chunk.js": "/dhanvepreeti96.github.io/Greetings/static/js/787.15dc09ae.chunk.js",
+    "index.html": "/dhanvepreeti96.github.io/Greetings/index.html",
+    "main.073c9b0a.css.map": "/dhanvepreeti96.github.io/Greetings/static/css/main.073c9b0a.css.map",
+    "main.896aa53c.js.map": "/dhanvepreeti96.github.io/Greetings/static/js/main.896aa53c.js.map",
+    "787.15dc09ae.chunk.js.map": "/dhanvepreeti96.github.io/Greetings/static/js/787.15dc09ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.896aa53c.js"
+  ]
+}
